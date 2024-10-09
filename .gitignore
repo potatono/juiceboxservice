@@ -1,3 +1,6 @@
+# Symlink to juicebox-protocol lib
+juicebox
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
